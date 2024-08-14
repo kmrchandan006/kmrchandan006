@@ -8,19 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/desicomedyvines" target="blank"><img src="https://img.shields.io/twitter/follow/desicomedyvines?logo=twitter&style=for-the-badge" alt="desicomedyvines" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science **Track Back**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/kmrchandan006](https://linktr.ee/kmrchandan006)
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **kmrchandan006@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/YJhwETOC9](https://resume.io/r/YJhwETOC9)
-
-- ⚡ Fun fact **I am Funny**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
