@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/chandan-kumar-2a1759226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kumar-2a1759226" height="30" width="40" /></a>
 <a href="https://fb.com/desi.comedy.vines96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="desi.comedy.vines96" height="30" width="40" /></a>
 <a href="https://instagram.com/desicomedyvines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desicomedyvines" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/desicomedyvines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="desicomedyvines" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/desicomedyvines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="desicomedyvines" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
