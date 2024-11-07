@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmrchandan006&label=Profile%20views&color=0e75b6&style=flat" alt="kmrchandan006" /> </p>
 
-<p align="left"> <a href="https://twitter.com/desicomedyvines" target="blank"><img src="https://img.shields.io/twitter/follow/desicomedyvines?logo=twitter&style=for-the-badge" alt="desicomedyvines" /></a> </p>
+<p align="left"> <a href="https://twitter.com/desicomedyvines" target="blank"><img src="https://img.shields.io/twitter/follow/kmrchandan006?logo=twitter&style=for-the-badge" alt="kmrchandan006" /></a> </p>
 
  
 
