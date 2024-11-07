@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmrchandan006&label=Profile%20views&color=0e75b6&style=flat" alt="kmrchandan006" /> </p>
 
-<p align="left"> <a href="https://twitter.com/desicomedyvines" target="blank"><img src="https://img.shields.io/twitter/follow/kmrchandan006?logo=twitter&style=for-the-badge" alt="kmrchandan006" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kmrchandan006" target="blank"><img src="https://img.shields.io/twitter/follow/kmrchandan006?logo=twitter&style=for-the-badge" alt="kmrchandan006" /></a> </p>
 
  
 
@@ -15,7 +15,7 @@
 <a href="https://twitter.com/kmrchandan006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmrchandan006" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandan-kumar-2a1759226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kumar-2a1759226" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/desi.comedy.vines96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="desi.comedy.vines96" height="30" width="40" /></a> -->
-<a href="https://instagram.com/desicomedyvines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desicomedyvines" height="30" width="40" /></a>
+<a href="https://instagram.com/kmrchandan006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmrchandan006" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/desicomedyvines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="desicomedyvines" height="30" width="40" /></a> -->
 </p>
 
